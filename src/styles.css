@@ -40,3 +40,11 @@ h5 {
   font-size: inherit;
   font-weight: inherit;
 }
+
+ul {
+  list-style-type: none;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+}
